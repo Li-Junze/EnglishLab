@@ -1,0 +1,22 @@
+[
+ {
+  "video_path": "C:/Users/39969/Downloads/42298378678-1-192.mp4",
+  "srt_path": "C:/Users/39969/Desktop/10月4日(1).srt",
+  "material_id": 17,
+  "title": "42298378678-1-192",
+  "position_ms": 553880,
+  "duration_ms": 553880,
+  "rate": 1.0,
+  "saved_at": 1791080156.353533
+ },
+ {
+  "video_path": "Z:/nonexist/a.mp4",
+  "srt_path": "a.srt",
+  "material_id": 1,
+  "title": "测试A",
+  "position_ms": 65000,
+  "duration_ms": 600000,
+  "rate": 1.0,
+  "saved_at": 1791079515.3666592
+ }
+]

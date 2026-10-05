@@ -1,0 +1,6 @@
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.19.0
+requests>=2.31.0
+# 可选：自带一个 ffmpeg，机器上没装 ffmpeg 时播放器用它兜底
+imageio-ffmpeg>=0.4.9
