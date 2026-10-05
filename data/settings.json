@@ -1,0 +1,20 @@
+{
+  "encounter_cap": 50,
+  "auto_master_threshold": 15,
+  "min_word_len": 3,
+  "max_new_words": 200,
+  "accent": "uk",
+  "recent_panel_size": 40,
+  "quiz_size": 20,
+  "auto_master_min_freq": 1,
+  "panel_layered": 1,
+  "vocab_level": "senior",
+  "popup_mode": "freq",
+  "popup_freq_top": 0,
+  "popup_freq_skip_known": 0,
+  "auto_translate": 1,
+  "ffmpeg_path": "",
+  "catch_all_unknown": 1,
+  "highlight_known": 1,
+  "popup_band": "normal"
+}
